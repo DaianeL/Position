@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  border-radius: 20px;
+  position: relative;
+  width: 207px;
+  height: 370px;
+  margin-top: 30vh;
+  margin-left: 13vw;
+}
